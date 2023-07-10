@@ -1,2 +1,1 @@
-# oita-md.github.io
-Oita.md
+# Oita.md
