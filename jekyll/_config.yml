@@ -32,7 +32,7 @@ lang: ja
 favicon:
   source: favicon.png
 
-destination: ./docs
+destination: ../docs
 
 # Build settings
 theme: minima
